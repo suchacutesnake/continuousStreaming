@@ -1,0 +1,2 @@
+Continuously streaming from YouTube to Bilibili!
+When I am streaming from YouTube to Bilibili for a long time, the url of YouTube channel would change and my stream would stop because the previous url is no longer capable. Therefore I learned shell and write a simple script to solve this problem.
